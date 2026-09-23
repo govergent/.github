@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Govergent-LogoTitle.png" alt="GOVERGENT" width="420">
+<img src="./profile/Govergent-LogoTitle.png" alt="GOVERGENT" width="420">
 
 <br>
 
